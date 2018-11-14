@@ -1,2 +1,2 @@
-# cv-reg
+# Consulta-CEP
 Project made for college.
