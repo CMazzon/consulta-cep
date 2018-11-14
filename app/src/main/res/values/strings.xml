@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Consultar CEP</string>,
+    <string name="search">Buscar</string>
+    <string name="cep_hint">Digite o CEP</string>
+</resources>
